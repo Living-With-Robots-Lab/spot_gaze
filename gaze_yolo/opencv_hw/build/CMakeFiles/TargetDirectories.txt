@@ -1,0 +1,3 @@
+/home/justin/opencv_hw/build/CMakeFiles/rebuild_cache.dir
+/home/justin/opencv_hw/build/CMakeFiles/edit_cache.dir
+/home/justin/opencv_hw/build/CMakeFiles/cvexample.dir
